@@ -51,8 +51,13 @@ From above analysis we can conclude that:
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
 
-* mentorship_eligibility.csv table lists the number of eligible employees for a Mentorship Program.
+* mentorship_eligibility table lists the number of eligible employees for a Mentorship Program.
+
+![rt4](Resources/4.png)
+
 * Number of employees eligible for mentorship program are 1549 employees.
+
+![rt5](Resources/5.png)
 
 
 ## CONCLUSION
@@ -62,3 +67,5 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 * Minimum available staff for mentorship program is "Assistant Engineer" which is 29.This mean we may need to transfer some of mentorship responsibilites to "Senior Engineer" as they are 528 employees. 
 * Most number of employees retiring is from "Developement" department.
 * Take a look at head-to-head comparison of employees retiring and employeees available for mentorship program gropued by department names to make the picture more clear and be able to tackle the retiring tsunami more efficiently.
+
+![rt6](Resources/6.png) ![rt7](Resources/7.png)
