@@ -22,7 +22,7 @@ ER diagrams can be at three levels of abstration.
 
 Take a look at the ER diagram for the database for the company.
 
-![ERD][]
+![ERD][Resources/ER_diagram.png]
 
 
 ## What are we Creating
@@ -31,18 +31,22 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ### Deliverable 1: The Number of Retiring Employees by Title
 
-* retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
+* retirement_titles table is a list of employees born between 1952 and 1955 who are eligible for retirement.
+
+![rt1][Resources/1.png]
+
 * Second list contains current employees of company born between 1952 and 1955 with their most recent titles using DISTINCT ON function which is exclusive to Postgress.
+
+![rt2][Resources/2.png]
+
 * Last list is count of the retiring employees for each title sorted in ascending order.
+
+![rt3][Resources/3.png]
 
 From above analysis we can conclude that:
 
 * Most number of employees retiring are Sr. Engineers with 25,916 employees  and Sr.Staff. with 24,926 employees.
 * Total number of employees retiring are 72,458.
-
-
-
-
 
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
