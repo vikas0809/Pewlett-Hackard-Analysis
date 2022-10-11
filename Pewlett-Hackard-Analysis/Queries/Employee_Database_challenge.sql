@@ -80,7 +80,7 @@ ORDER BY r.emp_no ASC, r.to_date DESC;
 
 -- Analysis count to find employees retiring by department
 -- group by department name.
-SELECT COUNT(dept_name), dept_name
+SELECT COUNT(dept_name) as "Retiring Employees", dept_name as "Department"
 FROM retiring_by_dept
 GROUP BY dept_name
 ORDER BY COUNT(dept_name) DESC;
@@ -101,7 +101,7 @@ ORDER BY me.emp_no ASC;
 
 -- Analysis count to find mentors available by department
 -- group by department name.
-SELECT COUNT(dept_name), dept_name
+SELECT COUNT(dept_name) as "Mentors Available", dept_name as "Department"
 FROM mentors_by_dept
 GROUP BY dept_name
 ORDER BY COUNT(dept_name) DESC;
