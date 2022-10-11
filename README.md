@@ -31,7 +31,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ### Deliverable 1: The Number of Retiring Employees by Title
 
-* The retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
+* retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
 * Second list contains current employees of company born between 1952 and 1955 with their most recent titles using DISTINCT ON function which is exclusive to Postgress.
 * Last list is count of the retiring employees for each title sorted in ascending order.
 
