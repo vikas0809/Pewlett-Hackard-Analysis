@@ -68,4 +68,4 @@ Deliverable 2: The Employees Eligible for the Mentorship Program
 * Most number of employees retiring is from "Developement" department.
 * Take a look at head-to-head comparison of employees retiring and employeees available for mentorship program gropued by department names to make the picture more clear and be able to tackle the retiring tsunami more efficiently.
 
-![rt6](Resources/6.png) ![rt7](Resources/7.png)
+![rt6](Resources/6.png)  ![rt7](Resources/7.png)
