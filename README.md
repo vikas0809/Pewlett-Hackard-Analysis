@@ -46,3 +46,8 @@ From above analysis we can conclude that:
 
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
+
+* mentorship_eligibility.csv table lists the number of eligible employees for a Mentorship Program.
+* Number of employees eligible for mentorship program are 1549 employees.
+
+
