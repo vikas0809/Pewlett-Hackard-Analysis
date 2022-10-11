@@ -15,7 +15,9 @@ ERD stands for entity relationship diagram.This visualize the relationship betwe
 ER diagrams can be at three levels of abstration.
 
 1.Conceptual ERD
+
 2.Logical ERD
+
 3.Physical ERD
 
 Take a look at the ER diagram for the database for the company.
@@ -24,9 +26,19 @@ Take a look at the ER diagram for the database for the company.
 
 
 ## What are we Creating
+
 This new assignment consists of two technical analysis deliverables and a written report. We did analysis and divided the report into two deliverables.
 
-Deliverable 1: The Number of Retiring Employees by Title
+### Deliverable 1: The Number of Retiring Employees by Title
+
+* The retirement_titles.csv table is a list of employees born between 1952 and 1955 who are eligible for retirement.
+* Second list contains current employees of company born between 1952 and 1955 with their most recent titles using DISTINCT ON function which is exclusive to Postgress.
+* Last list is count of the retiring employees for each title sorted in ascending order.
+
+From above analysis we can conclude that:
+
+* Most number of employees retiring are Sr. Engineers with 25,916 employees  and Sr.Staff. with 24,926 employees.
+* Total number of employees retiring are 72,458.
 
 
 
